@@ -12,9 +12,15 @@ This is a simple and responsive **static website** for a fictional restaurant, b
 - HTML5
 - CSS3
 
-## 📂 Folder Structure:
+
 Restaurant_Static_Website/
 ├── index.html
+├── menu.html
+├── contact.html
+├── reservation.html
+├── registration.html
 ├── style.css
-├── images/
-└── README.md
+├── reservation.css
+├── script.js
+├── README.md
+
