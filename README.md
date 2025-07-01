@@ -11,7 +11,7 @@ This is a simple and responsive **static website** for a fictional restaurant, b
 ## 🛠️ Technologies Used:
 - HTML5
 - CSS3
-
+## project live demo: https://pyarasanikavya.github.io/webproject/
 
 Restaurant_Static_Website/
 ├── index.html
